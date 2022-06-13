@@ -6,4 +6,8 @@ Victor tiene 19 años, vive en mexico y está haciendo este curso en guthub con 
 
 master 1
 
+experimento 1
+
+experimento 2
+
 Mañana nos enfocaremos en su vida laboral
