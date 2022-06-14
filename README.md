@@ -17,6 +17,7 @@ odio el qwerty en español
 * Trucos muy locos
 *Creado por Victor y acabado en Junio 2022
 *funciona en todos los sistemas operativos
+*Disponible en todas las edades
 
 Y como amable recordatorio: **Este readme me esta ayudando para practicar el uso del 	Mark Down**, si llegas a leer esto **No te lo tomes en serio**
 
